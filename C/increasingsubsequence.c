@@ -1,7 +1,3 @@
-/* Just updated my solution to https://open.kattis.com/problems/longincsubseq,
- * to print the actual elements and with the new format, and some minor input
- * changes too. */
-
 #include <stdio.h>
 
 void sequence(int* arr, int n)
